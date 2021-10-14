@@ -1,4 +1,4 @@
 # myapp
 
-This is a flutter time zone project.
+This is a flutter layout project.
 
